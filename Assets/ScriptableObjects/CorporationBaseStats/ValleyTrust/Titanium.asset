@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dd647ab08480f1448eb914d8ab71b65, type: 3}
+  m_Name: Titanium
+  m_EditorClassIdentifier: 
+  current: {fileID: 11400000, guid: facaa6b817cfeba41a92e2aaf6933d68, type: 2}
+  income: {fileID: 11400000, guid: c8899638a2359764f966ce8f2d283943, type: 2}
+  terraform: {fileID: 0}

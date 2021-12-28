@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2dd647ab08480f1448eb914d8ab71b65, type: 3}
   m_Name: Steel
   m_EditorClassIdentifier: 
-  current: {fileID: 11400000, guid: ca5c67c17c241b44ebd51522e7183234, type: 2}
-  income: {fileID: 11400000, guid: cfe6acbfae5164e42ab553d939a5c096, type: 2}
+  current: {fileID: 11400000, guid: a37cbb7b063e4564f881a7574c42247d, type: 2}
+  income: {fileID: 11400000, guid: 64a2471c968b8814fb5b667d8891133c, type: 2}
   terraform: {fileID: 0}

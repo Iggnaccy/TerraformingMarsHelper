@@ -680,7 +680,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'RESTART
+  m_Text: 'RESTART GAME
 
     (press twice)'
 --- !u!222 &40270858
@@ -959,8 +959,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -547, y: -42}
-  m_SizeDelta: {x: 200, y: 80}
+  m_AnchoredPosition: {x: -515, y: -42}
+  m_SizeDelta: {x: 266.0593, y: 80}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &105546876
 MonoBehaviour:
@@ -974,21 +974,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26d40861d0cb6054b821454dbb9dd968, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  valuesToReset:
-  - {fileID: 11400000, guid: 78c67a5efd3883140b6c261b7bc35fe1, type: 2}
-  - {fileID: 11400000, guid: de7f32a35bf30054083ff3bc07c7ab92, type: 2}
-  - {fileID: 11400000, guid: b766dbf958837eb469d1ab14734f84b8, type: 2}
-  - {fileID: 11400000, guid: 6571309b9d63dcc4e9798062ffd38696, type: 2}
-  - {fileID: 11400000, guid: 694b5fd9a35db74409a04fbce7a3aba7, type: 2}
-  - {fileID: 11400000, guid: 02ad8b5be6df1834aa098d75b9d92c12, type: 2}
-  - {fileID: 11400000, guid: 9e30399d96adf5a4bb99a6f9739b631a, type: 2}
-  - {fileID: 11400000, guid: 2ec29690d0442a340915aef15ec20028, type: 2}
-  - {fileID: 11400000, guid: b76c0b5af6173b642a57a7b1f990efda, type: 2}
-  - {fileID: 11400000, guid: 7fe3b277cb004a54a98b6583cc7f9343, type: 2}
-  - {fileID: 11400000, guid: fe08008ea45fa3842a14e0009d31ce1f, type: 2}
-  - {fileID: 11400000, guid: a6ec7631fe8dea249a890d198145fca7, type: 2}
-  - {fileID: 11400000, guid: 7bd30b730b9e7f64eb3d6a05347b4b18, type: 2}
-  - {fileID: 11400000, guid: 7cdf5c31e5db4384d9261227be3244f4, type: 2}
 --- !u!114 &105546877
 MonoBehaviour:
   m_ObjectHideFlags: 0

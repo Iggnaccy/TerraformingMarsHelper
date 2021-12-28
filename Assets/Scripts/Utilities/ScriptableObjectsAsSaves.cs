@@ -10,10 +10,7 @@ public class ScriptableObjectsAsSaves : MonoBehaviour
 
     private void Start()
     {
-        if (UnityEngine.SceneManagement.SceneManager.GetActiveScene().name == "PlayerBoardScene")
-        {
-            Init();
-        }
+        Init();
     }
 
     private void OnApplicationPause(bool pause)

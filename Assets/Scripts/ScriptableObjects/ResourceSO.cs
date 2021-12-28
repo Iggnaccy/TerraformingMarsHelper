@@ -23,7 +23,11 @@ public class ResourceSO : ScriptableObject
 
     public void SetValueFromOther(ResourceSO other, int incomeBoost = 0)
     {
+        current.debug = true;
         current.SetValue(other.current);
-        income.SetValue(other.income);
+        current.debug = false;
+        income.debug = true;
+        income.SetValue(other.income + incomeBoost);
+        income.debug = false;
     }
 }

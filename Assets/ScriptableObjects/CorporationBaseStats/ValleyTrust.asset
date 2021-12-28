@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: ValleyTrust
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: 8e5a3f9c379f62940938381da46dd000, type: 2}
+  green: {fileID: 11400000, guid: a243c81517b748748a586e0ae59485b3, type: 2}
+  steel: {fileID: 11400000, guid: 0cad089524e0ead4e960f31d98a5f568, type: 2}
+  titanium: {fileID: 11400000, guid: b9400ee0f73d3974ab7e2e867a3d7475, type: 2}
+  energy: {fileID: 11400000, guid: 6bbc106740d4f8244ab7d43493dbebc3, type: 2}
+  heat: {fileID: 11400000, guid: 0b2698f7d3c9ad746a59c7e8c3309e22, type: 2}

@@ -6,7 +6,6 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class RestartGame : MonoBehaviour
 {
-    [SerializeField] List<IntValue> valuesToReset;
     private Button button;
 
     private void Start()
@@ -29,10 +28,8 @@ public class RestartGame : MonoBehaviour
 
     private void ResetGame()
     {
-        foreach(var value in valuesToReset)
-        {
-            value.SetValue(value.StartValue);
-        }
+        PlayerPrefs.DeleteAll();
+        UnityEngine.SceneManagement.SceneManager.LoadScene(0);
     }
 
     private IEnumerator WaitForSecondClick()

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: Vitor
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: cbed60c4426338340b2b5b1e0efa0b7f, type: 2}
+  green: {fileID: 11400000, guid: 571f9337312632f42b2074464abefd80, type: 2}
+  steel: {fileID: 11400000, guid: 7af08d9e56156bd4fac5d47ce9668a94, type: 2}
+  titanium: {fileID: 11400000, guid: 16375db58db04264386df19ea37e8e3a, type: 2}
+  energy: {fileID: 11400000, guid: 286ab65bd72deb94aa127eca313066ea, type: 2}
+  heat: {fileID: 11400000, guid: f97448bea71be814686404e27d5a376e, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: MiningGuild
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: 4c996ac429ff43543863a659a7e8706f, type: 2}
+  green: {fileID: 11400000, guid: c6701b5ae662e754e815a51363f40bba, type: 2}
+  steel: {fileID: 11400000, guid: 76697883ceade3441881fe9d44ef9760, type: 2}
+  titanium: {fileID: 11400000, guid: c0324ff38d6c2624ab0a45a295affee1, type: 2}
+  energy: {fileID: 11400000, guid: 004ee48ec37961042b0fa3beadab8433, type: 2}
+  heat: {fileID: 11400000, guid: 7ef2abd874b9ca34798c6ca80f6dfdc4, type: 2}

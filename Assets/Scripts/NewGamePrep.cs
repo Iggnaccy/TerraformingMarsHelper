@@ -20,6 +20,7 @@ public class NewGamePrep : MonoBehaviour
 
     public void OnClick()
     {
+        PlayerPrefs.DeleteAll();
         usedGroup.SetValuesFromOther(thisCompany, advancedToggle.isOn ? 0 : 1);
         SceneManager.LoadScene(1);
     }

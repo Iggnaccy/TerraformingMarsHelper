@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: Thorgate
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: d22a7d9f0ac2301429eddfbdc7ef9d13, type: 2}
+  green: {fileID: 11400000, guid: 29e67c3715b26e6478884ed0ea856eda, type: 2}
+  steel: {fileID: 11400000, guid: b1120629a3f6b6447af0dcff34aa5fe0, type: 2}
+  titanium: {fileID: 11400000, guid: f966a731e23a78d41a15c4d991ee890a, type: 2}
+  energy: {fileID: 11400000, guid: aaa8f61c2d15ee943832e712c483a1b4, type: 2}
+  heat: {fileID: 11400000, guid: 9abbdc0533b7a9546b00db2270b1d5d0, type: 2}

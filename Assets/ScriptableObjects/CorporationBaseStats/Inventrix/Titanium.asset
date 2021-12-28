@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2dd647ab08480f1448eb914d8ab71b65, type: 3}
   m_Name: Titanium
   m_EditorClassIdentifier: 
-  current: {fileID: 11400000, guid: 298608d01fa866b49a4610a54fba7822, type: 2}
-  income: {fileID: 11400000, guid: aad534ef2e3a9f6488c1d0ff50801cf1, type: 2}
+  current: {fileID: 11400000, guid: 413c94d5e2981de47944273b246e07b9, type: 2}
+  income: {fileID: 11400000, guid: 81d492d894189934984b5067898a1bc8, type: 2}
   terraform: {fileID: 0}

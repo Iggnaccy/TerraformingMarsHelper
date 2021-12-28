@@ -29,7 +29,7 @@ public abstract class BaseTypeValue<T> : ScriptableObject, ISaveable
     [SerializeField] private UnityEvent<T> onValueChanged;
     [SerializeField] private UnityEvent onValueChangedNoData;
 
-
+    public bool debug { get; set; }
     public bool CanSave => canSave;
     public T MinimumValue => minimumValue;
     public T StartValue => startValue;
@@ -65,8 +65,14 @@ public abstract class BaseTypeValue<T> : ScriptableObject, ISaveable
 
     public virtual void Save()
     {
-        if(canSave)
+        if (canSave)
+        {
+            if(debug)
+            {
+                Debug.Log($"[{base.ToString()}] saving playerPrefs under key {name} with value {ToString()}");
+            }
             PlayerPrefs.SetString(name, ToString());
+        }
     }
 
     public virtual void Load()
