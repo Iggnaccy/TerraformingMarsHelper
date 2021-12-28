@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: Helion
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: c311923f4e77f2347836ffa5f26f2d92, type: 2}
+  green: {fileID: 11400000, guid: 71304c571030e4d49bb675bfb661d3f6, type: 2}
+  steel: {fileID: 11400000, guid: 88105eec9a34ce04a9dfc94b86055582, type: 2}
+  titanium: {fileID: 11400000, guid: 69c7856a9bfe7b14895ae91ec14f05bc, type: 2}
+  energy: {fileID: 11400000, guid: 8e354f7846435f548ac269aaaac20494, type: 2}
+  heat: {fileID: 11400000, guid: e00f78eb5d1652a4dbfe9dbe25a2fb38, type: 2}

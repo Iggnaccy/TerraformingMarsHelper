@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: CheungShing
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: 63467c6114886fb4abc60bb43f66fe75, type: 2}
+  green: {fileID: 11400000, guid: cc47428312b753a4fa2c272e6017a387, type: 2}
+  steel: {fileID: 11400000, guid: 3209010e363fb0044a70a718a23b1a22, type: 2}
+  titanium: {fileID: 11400000, guid: 7f4afe0596dc9a14ca7bf034234ab95c, type: 2}
+  energy: {fileID: 11400000, guid: 4817c98b6776de94c9be3ea6cc55f26b, type: 2}
+  heat: {fileID: 11400000, guid: 56154ca187d08704cb5c37ff756dc15f, type: 2}

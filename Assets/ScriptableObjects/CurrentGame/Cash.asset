@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dd647ab08480f1448eb914d8ab71b65, type: 3}
+  m_Name: Cash
+  m_EditorClassIdentifier: 
+  current: {fileID: 11400000, guid: de7f32a35bf30054083ff3bc07c7ab92, type: 2}
+  income: {fileID: 11400000, guid: 2ec29690d0442a340915aef15ec20028, type: 2}
+  terraform: {fileID: 11400000, guid: 7cdf5c31e5db4384d9261227be3244f4, type: 2}

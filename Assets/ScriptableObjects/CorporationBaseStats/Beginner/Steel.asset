@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dd647ab08480f1448eb914d8ab71b65, type: 3}
+  m_Name: Steel
+  m_EditorClassIdentifier: 
+  current: {fileID: 11400000, guid: c1e8a305177d01d4aaf941ce51cd1eba, type: 2}
+  income: {fileID: 11400000, guid: 1753978f9f219184e8c6dafc9d57e488, type: 2}
+  terraform: {fileID: 0}

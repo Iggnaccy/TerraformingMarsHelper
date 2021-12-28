@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: Credicor
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: 66c310755d32b6d46bcc09cd1923c31a, type: 2}
+  green: {fileID: 11400000, guid: 2e7d42eb25195aa499741af79f7383ab, type: 2}
+  steel: {fileID: 11400000, guid: 2a51a2eada3b4dc41bba9e35c6021f4c, type: 2}
+  titanium: {fileID: 11400000, guid: 6fc2b94df678144459f3bffad52cb1cc, type: 2}
+  energy: {fileID: 11400000, guid: a8b5bb62071421543ae3368e17536b9b, type: 2}
+  heat: {fileID: 11400000, guid: 82dafbbe6d974284baaa15f4226a85ae, type: 2}

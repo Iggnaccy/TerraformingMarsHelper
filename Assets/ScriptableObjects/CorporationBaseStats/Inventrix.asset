@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: Inventrix
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: 529abf7672f3b5048a532311e0c739dd, type: 2}
+  green: {fileID: 11400000, guid: 1a44ced1142d8df4c93b9a4a845b2e05, type: 2}
+  steel: {fileID: 11400000, guid: 33c16aaa2e1e1c444aadcee9951f1a18, type: 2}
+  titanium: {fileID: 11400000, guid: 03908b5ed7585e8449fc06c2ea43826c, type: 2}
+  energy: {fileID: 11400000, guid: 9a1ca9a6d5a41c9429e465cc98d42569, type: 2}
+  heat: {fileID: 11400000, guid: 5fa34a4bbe4f7174c8a032f688376d53, type: 2}

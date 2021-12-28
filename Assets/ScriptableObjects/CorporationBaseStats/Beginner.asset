@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f55bfa0d6778d40b6fcf0afc91a1d9, type: 3}
+  m_Name: Beginner
+  m_EditorClassIdentifier: 
+  gold: {fileID: 11400000, guid: 05e2e1fde79dc0b439962a7e1a637f5e, type: 2}
+  green: {fileID: 11400000, guid: 7dec92f6ccab0e144a0bb21894764763, type: 2}
+  steel: {fileID: 11400000, guid: b0bbdbac994625c418a42f452cc2b585, type: 2}
+  titanium: {fileID: 11400000, guid: 63e7f5fc2116f9d44b775805837394ed, type: 2}
+  energy: {fileID: 11400000, guid: b957cdaac7a5a20458caab01cfb185a2, type: 2}
+  heat: {fileID: 11400000, guid: d86aef3f22c49dc4f9be43b03454aeb8, type: 2}
