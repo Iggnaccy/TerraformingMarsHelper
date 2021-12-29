@@ -16,4 +16,14 @@ public class ResourceGroupSO : ScriptableObject
         energy.SetValueFromOther(other.energy, incomeBoost);
         heat.SetValueFromOther(other.heat, incomeBoost);
     }
+
+    public void ForceSave()
+    {
+        gold.ForceSave();
+        green.ForceSave();
+        steel.ForceSave();
+        titanium.ForceSave();
+        energy.ForceSave();
+        heat.ForceSave();
+    }
 }

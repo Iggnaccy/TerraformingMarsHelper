@@ -30,4 +30,10 @@ public class ResourceSO : ScriptableObject
         income.SetValue(other.income + incomeBoost);
         income.debug = false;
     }
+
+    public void ForceSave()
+    {
+        current.Save();
+        income.Save();
+    }
 }
